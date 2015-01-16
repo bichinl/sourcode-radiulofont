@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-$font-path: '../fonts/';
+$font-path: '../fonts/radiulo/';
 
 @font-face {
 	font-family: "radiulo";
@@ -51,4 +51,22 @@ $font-path: '../fonts/';
 
 .radiulo-icon-todos:before {
 	content: "d";
+}
+
+.fa-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.fa-2x {
+  font-size: 2em;
+}
+.fa-3x {
+  font-size: 3em;
+}
+.fa-4x {
+  font-size: 4em;
+}
+.fa-5x {
+  font-size: 5em;
 }
