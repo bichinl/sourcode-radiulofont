@@ -1,0 +1,21 @@
+{
+	"name": "sourcode-radiulofont",
+	"description": "SourCode Radiulo Font icons",
+	"version": "1.0.0",
+	"keywords": [],
+	"dependencies": {},
+	"devDependencies": {},
+	"main": [
+		"./css/radiulo-font.css",
+		"./fonts/*"
+	],
+	"ignore": [
+		"*/.*",
+		"*.json",
+		"src",
+		"*.yml",
+		"Gemfile",
+		"Gemfile.lock",
+		"*.md"
+	]
+}
